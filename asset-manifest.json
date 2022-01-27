@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lorem_generator_React/static/css/main.fb86bce3.chunk.css",
+    "main.js": "/Lorem_generator_React/static/js/main.e0c4b20c.chunk.js",
+    "main.js.map": "/Lorem_generator_React/static/js/main.e0c4b20c.chunk.js.map",
+    "runtime-main.js": "/Lorem_generator_React/static/js/runtime-main.1100bfd6.js",
+    "runtime-main.js.map": "/Lorem_generator_React/static/js/runtime-main.1100bfd6.js.map",
+    "static/js/2.4f3e8bfa.chunk.js": "/Lorem_generator_React/static/js/2.4f3e8bfa.chunk.js",
+    "static/js/2.4f3e8bfa.chunk.js.map": "/Lorem_generator_React/static/js/2.4f3e8bfa.chunk.js.map",
+    "index.html": "/Lorem_generator_React/index.html",
+    "precache-manifest.02732620c1dc7462452721c0c2a93368.js": "/Lorem_generator_React/precache-manifest.02732620c1dc7462452721c0c2a93368.js",
+    "service-worker.js": "/Lorem_generator_React/service-worker.js",
+    "static/css/main.fb86bce3.chunk.css.map": "/Lorem_generator_React/static/css/main.fb86bce3.chunk.css.map",
+    "static/js/2.4f3e8bfa.chunk.js.LICENSE.txt": "/Lorem_generator_React/static/js/2.4f3e8bfa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1100bfd6.js",
+    "static/js/2.4f3e8bfa.chunk.js",
+    "static/css/main.fb86bce3.chunk.css",
+    "static/js/main.e0c4b20c.chunk.js"
+  ]
+}
